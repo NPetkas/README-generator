@@ -50,3 +50,8 @@ Link to Repo: [https://github.com/NicoInLALAland/README-generator](https://githu
 Email: [nicopetkas@gmail.com](emailto:nicopetkas@gmail.com)
 
 ![image](/README-generator.gif)
+
+## Link to Video
+[Video][def]
+
+[def]: https://drive.google.com/file/d/1JB4Ce9nUlrd3YTzBMZaz7n2IiKDt0mhM/view
