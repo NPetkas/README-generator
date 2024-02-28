@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
-  Creates or Generates a professional README.md file
+  Create a professional README.md file
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,8 +12,8 @@
 
 ## Installation
 
-1. Clone the repository `git clone git@github.com:NicoP/https://github.com/NicoInLALAland/README-generator.git`
-2. Navigate to the project directory `cd ./https://github.com/NicoInLALAland/README-generator`
+1. Clone the repository `git clone git@github.com:https://github.com/NicoInLALAland/README-generator/nicok.git`
+2. Navigate to the project directory `cd ./nicok`
 3. Install dependencies `npm i inquirer@v8.2.4`
 
 
@@ -43,15 +43,8 @@ node index.js
 
 Contact information for any questions:
 
-Github Profile: [NicoP](https://github.com/NicoP)
+Github Profile: [https://github.com/NicoInLALAland/README-generator](https://github.com/https://github.com/NicoInLALAland/README-generator)
 
-Link to Repo: [https://github.com/NicoInLALAland/README-generator](https://github.com/NicoP/https://github.com/NicoInLALAland/README-generator)
+Link to Repo: [nicok](https://github.com/https://github.com/NicoInLALAland/README-generator/nicok)
 
-Email: [nicopetkas@gmail.com](emailto:nicopetkas@gmail.com)
-
-![image](/README-generator.gif)
-
-## Link to Video
-[Video][def]
-
-[def]: https://drive.google.com/file/d/1JB4Ce9nUlrd3YTzBMZaz7n2IiKDt0mhM/view
+Email: [](emailto:)
