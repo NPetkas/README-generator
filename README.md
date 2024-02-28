@@ -10,7 +10,7 @@ own professional README that would meet most employer standards. The code create
 how to use inquirer prompt for question arrays, switch operators for user selections, how to structure and generate a 
 README markdown using NODE.js
 
-![image](./images/README-generator.gif)
+![image](./Develop/images/README-generator.gif)
 
 ## Link to Video Demo
 
